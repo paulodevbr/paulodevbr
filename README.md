@@ -1,5 +1,8 @@
 ## Hi there 👋🏼! My name is Paulo, welcome to my profile!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodevbr&layout=compact)
+
+
 ### 📱 Tech stack
 - React, React Native, NextJS
 - NestJS, Node, Typescript
