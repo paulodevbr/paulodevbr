@@ -1,4 +1,7 @@
-## Hi there 👋
+
+- 📃 I am a full-stack developer with 6 years of experience in backend, frontend and mobile development. I have knowledge of how to create software from scratch to deployment. I have worked in various domains such as ecommerce, public management, payment platform, booking platform (hotels), and others. I always study to keep up with the best practices in the market. I try to understand the business to create solutions that add more value. I am flexible and adapt quickly, I like to learn new technologies and languages. 
+
+- 📱 Tech stack: React, React Native, NextJS, NestJS, Node, Typescript, graphQL, Docker, AWS.
 
 <!--
 **paulodevbr/paulodevbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
